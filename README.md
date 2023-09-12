@@ -7,11 +7,11 @@ A Ruby command-line tool that leverages the OpenWeatherMap API to fetch and pres
 Before you begin, ensure you have:
 
 - Obtained an API key from [OpenWeatherMap](https://openweathermap.org/).
-- Installed the required Ruby gems: `gem install net-http-persistent json colorize terminal-table tzinfo`.
+- Installed the required Ruby gems: `gem install net-http-persistent json colorize terminal-table tzinfo`
 
 ## Usage
 
-1. Run Weather Explorer: `ruby weather_explorer.rb`.
+1. Run Weather Explorer: `ruby weather_explorer.rb`
 
 2. Choose an option:
    - **1. View Current Weather Data**: Enter city names for current weather.
