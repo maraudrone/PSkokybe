@@ -1,6 +1,6 @@
 # Weather
 
-Explore weather information with Weather, a Ruby command-line tool that leverages the OpenWeatherMap API to fetch and present current weather data, forecasts, and city information.
+A Ruby command-line tool that leverages the OpenWeatherMap API to fetch and present current weather data, forecasts, and city information.
 
 ## Prerequisites
 
