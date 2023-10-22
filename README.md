@@ -30,5 +30,3 @@ Before you begin, ensure you have:
 ## Acknowledgments
 
 Weather Explorer relies on the OpenWeatherMap API for weather data.
-
-Enjoy using Weather Explorer! If you encounter issues or have suggestions, please contribute or open an issue on GitHub.
